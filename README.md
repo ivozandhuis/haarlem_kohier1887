@@ -14,3 +14,5 @@ The columns, from left to right, have the following meaning:
 - family size
 - basis (in guilders)
 - tax (in guilders)
+
+Licence: CC0
